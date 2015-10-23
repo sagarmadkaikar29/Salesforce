@@ -2,7 +2,7 @@
  * Description - Sample Apex REST service with GET and POST methods
  * Author - Matthew Lamb
  * Example request:
- *test
+ *testggggggggg
    { "acct" : 
      {
        "Name" : "Test Company 1",
